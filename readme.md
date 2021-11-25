@@ -1,17 +1,17 @@
 # Caça-Palavras
 
 - [Caça-Palavras](#caça-palavras)
-  - [Information](#information)
-  - [About](#about)
+  - [Info](#info)
+  - [Sobre](#sobre)
 
-## Information
+## Info
 
 Programa baseado em um Caça-Palavras, com o objetivo de procurar Strings em uma Matriz.
 
-## About
+## Sobre
 
-Autor: Antônio Humberto Silva Fontes
-Disciplina: Laboratório de Programação II
-Docente: Rodrigo Costa Camargos
+Autor: Antônio Humberto Silva Fontes<br />
+Disciplina: Laboratório de Programação II<br />
+Docente: Rodrigo Costa Camargos<br />
 
 UNEMAT - Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado
